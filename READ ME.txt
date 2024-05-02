@@ -1,0 +1,5 @@
+In each of three folders there is a datalog in "*.bin" format. These files can be opened using UAV LogViewer that is available under the link https://plot.ardupilot.org/#/
+
+A simple manual on how to use this software can be found on https://ardupilot.org/dev/docs/common-uavlogviewer.html
+
+Abovementioned datalogs can be also opened using Mission Planner https://ardupilot.org/planner/
